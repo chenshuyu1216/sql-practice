@@ -19,3 +19,7 @@ The goal of this repository is to build a strong SQL foundation for future AI, d
 ## Author
 
 Chenshuyu — AI Student, Xiamen University Malaysia
+
+## Learning Log
+
+- [SQL Learning Log](notes/sql_learning_log.md)

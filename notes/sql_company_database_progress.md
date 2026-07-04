@@ -138,3 +138,21 @@ Examples:
 - Practice HAVING
 - Practice more JOIN problems
 - Turn this company database into a polished GitHub SQL mini project
+
+## GROUP BY and HAVING Practice - 2026-07-04
+
+Today I practiced `GROUP BY` and `HAVING`.
+
+I learned that `GROUP BY` is used to group rows before calculating statistics, and `HAVING` is used to filter grouped results.
+
+Practice completed:
+
+- Count employees in each branch
+- Calculate average salary in each branch
+- Calculate total sales for each employee
+- Find employees whose total sales are greater than 50000
+
+Result:
+
+- employee 206: 70000
+- employee 210: 87940

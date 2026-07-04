@@ -156,3 +156,27 @@ Result:
 
 - employee 206: 70000
 - employee 210: 87940
+
+## SQL Mini Project Update - 2026-07-04
+
+I organized the company database practice into a polished GitHub mini project.
+
+New project folder:
+
+- `projects/company_database/schema.sql`
+- `projects/company_database/seed.sql`
+- `projects/company_database/queries.sql`
+- `projects/company_database/README.md`
+
+What I completed:
+
+- Separated table structure into `schema.sql`
+- Separated sample data into `seed.sql`
+- Separated practice queries into `queries.sql`
+- Added a project README for GitHub
+- Practiced organizing SQL work like a real mini project
+
+Current status:
+
+- SQL company database mini project completed
+- Next learning stage: DSA basics
